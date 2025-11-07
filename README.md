@@ -1,4 +1,5 @@
 # GenAI
 This is my first Git Repository.
 <br>
-Author - Kamran Ahmed
+Author - Dr. Kamran Ahmed
+cd
